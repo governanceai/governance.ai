@@ -22,5 +22,9 @@ page_sections:
   block: text-1
   content: "<h1></h1>"
   headline: ''
+- template: signup-bar
+  block: cta-bar
+  email_recipient: operations@governance.ai
+  content: Subscribe
 
 ---
