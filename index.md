@@ -20,9 +20,9 @@ page_sections:
     url: "#signup"
     button_text: Sign up for updates
   image:
-    image: "/uploads/2021/06/02/nikita-ti-cw2bc8oneu8-unsplash.jpg"
+    image: "/uploads/2021/06/02/logo-1.svg"
     alt_text: Radcliffe Square, Oxford
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2021/06/02/nikita-ti-cw2bc8oneu8-unsplash.jpg"
 - template: signup-bar
   block: cta-bar
   email_recipient: operations@governance.ai
