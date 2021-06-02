@@ -6,12 +6,10 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2021/06/02/logo-1.svg"
-  navigation:
-  - link: "#signup-bar"
-    link_text: Sign up for updates
+  navigation: []
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: "#subscribe"
+    button_text: Subscribe
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -22,9 +20,9 @@ page_sections:
     url: "#signup"
     button_text: Sign up for updates
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2021/06/02/nikita-ti-cw2bc8oneu8-unsplash.jpg"
+    image: "/uploads/2021/06/02/nikita-ti-cw2bc8oneu8-unsplash.jpg"
+    alt_text: Radcliffe Square, Oxford
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: signup-bar
   block: cta-bar
   email_recipient: operations@governance.ai
