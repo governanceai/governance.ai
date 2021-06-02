@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Centre for the Governance of AI
 date: 2021-06-02 21:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
@@ -10,25 +10,17 @@ page_sections:
   cta:
     url: "#subscribe"
     button_text: Subscribe
-- template: hero-banner-w-image
-  block: hero-2
-  slug: features
-  headline: The Centre for the Governance of AI is forming a nonprofit
-  content: ''
-  cta:
-    enabled: true
-    url: "#signup"
-    button_text: Sign up for updates
-  image:
-    image: "/uploads/2021/06/02/logo-1.svg"
-    alt_text: Radcliffe Square, Oxford
-  background_image: "/uploads/2021/06/02/nikita-ti-cw2bc8oneu8-unsplash.jpg"
-- template: signup-bar
-  block: cta-bar
-  email_recipient: operations@governance.ai
-  content: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: 'The Centre for the Governance of AI '
+  slug: info
+  content: Lorem ipsum other latin words
 - template: simple-footer
   block: footer-1
   content: 'Centre for the Governance of AI © 2021 '
+- template: detail-content
+  block: text-1
+  content: "<h1></h1>"
+  headline: ''
 
 ---
